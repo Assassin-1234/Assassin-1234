@@ -1,10 +1,10 @@
 # Hello ! 
 
 I am Assassin, developing games and bots on discord !
-       I'm currently learning -
-                                           🥩 javascript 
-                                            🥓 python
-                                            🍗 C#
+       I'm currently learning - <br>
+                                           🥩 javascript <br>
+                                            🥓 python <br>
+                                            🍗 C# <br>
 
 👉👈 DM me on discord if you can teach me sum, Assassin#1234
 
