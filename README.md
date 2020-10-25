@@ -12,4 +12,4 @@ Join my discord server ! The home to the discord game "SHOOTOUT 3D"
   
 [![Discord](https://img.shields.io/discord/746068134577832007?label=Discord%20server&style=for-the-badge)](https://discord.gg/kEjT5nK)
 
-[![Assassin's Github stats](https://github-readme-stats.vercel.app/api?username=Assassin-1234&show_icons=true&theme=radical)]
+[![Assassin's github stats](https://github-readme-stats.vercel.app/api?username=Assassin-1234&show_icons=true&theme=radical)]
