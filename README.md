@@ -6,7 +6,7 @@ I am Assassin, developing games and bots on discord !
                                             🥓 python <br>
                                             🍗 C# <br>
 
-👉👈 DM me on discord if you can teach me sum, Assassin#1234
+👉👈 DM me on discord if you can teach me sum, AssassiN#1234
 
 Join my discord server ! The home to the discord game "SHOOTOUT 3D"
   
