@@ -5,6 +5,7 @@ I am Assassin, developing games and bots on discord !
                                            🥩 javascript <br>
                                             🥓 python <br>
                                             🍗 C# <br>
+                                            🦐java <br>
 
 👉👈 DM me on discord if you can teach me sum, AssassiN#0002
 
