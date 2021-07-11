@@ -18,4 +18,4 @@ I currently work on discord projects and mainly work at @Nuggies-bot
 
 ### Github Stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assassin-1234&show_icons=true&theme=tokyonight&&hide_border=true&&count_private=true&include_all_commits=true" />
+[![stats](https://github-readme-stats.vercel.app/api?username=Assassin-1234&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&layout=compact&theme=tokyonight&&hide_border=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
