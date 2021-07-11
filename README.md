@@ -1,16 +1,21 @@
-# Hello ! 
-![](https://komarev.com/ghpvc/?username=Assassin-1234&color=green)
+# Hello World!
 
-I am Assassin, developing games and bots on discord !
-       I'm currently learning - <br>
-                                           🥩 javascript <br>
-                                            🥓 python <br>
-                                            🍗 C# <br>
-                                            🦐 java <br>
-                                            🍑typescript <br>
+I'm a 16yrs old student. I like to contribute to open sourced projects and make fun stuff :)
 
-👉👈 DM me on discord if you can teach me sum, AssassiN#0002
+## languages I know:
+       🍎 javascript
+       🍟 python
+## languages I'm learning: 
+       🍔 typescript
+       🍦 C#
+       🥓java
 
-<!-- [![Discord Bots](https://top.gg/api/widget/779741162465525790.svg)](https://top.gg/bot/779741162465525790)
- -->
-invite my [bot!](https://top.gg/bot/779741162465525790) currently in 1k+ servers
+
+
+I currently work on discord projects and mainly work at @Nuggies-bot 
+
+
+
+### Github Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assassin-1234&show_icons=true&theme=tokyonight&&hide_border=true&&count_private=true&include_all_commits=true" />
