@@ -12,7 +12,7 @@ I'm a 16yrs old student. I like to contribute to open sourced projects and make 
 
 
 
-I currently work on discord projects and mainly work at @Nuggies-bot 
+I currently work on discord projects and mainly work at <a href = "https://github.com/Nuggies-bot"> @Nuggies-bot </a>
 
 
 
