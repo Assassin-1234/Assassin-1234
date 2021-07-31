@@ -4,11 +4,12 @@ I'm a 16yrs old student. I like to contribute to open sourced projects and make 
 
 ## languages I know:
        🍎 javascript
+       🍔 typescript
        🍟 python
 ## languages I'm learning: 
-       🍔 typescript
        🍦 C#
        🥓java
+       ⚙ rust
 
 
 
