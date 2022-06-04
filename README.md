@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm a 16yrs old student. I like to contribute to open sourced projects and make fun stuff :)
+I'm a 17yrs old student. I like to contribute to open sourced projects and make fun stuff, I specialize in automation and backend with nodejs and databases. DM me on Discord @ AssassiN#0002 to hire/collaborate on stuff together! 
 
 ## languages I know:
        🍎 javascript
@@ -13,7 +13,7 @@ I'm a 16yrs old student. I like to contribute to open sourced projects and make 
 
 
 
-I currently work on discord projects and mainly work at <a href = "https://github.com/Nuggies-bot"> @Nuggies-bot </a>
+I currently work as a MERN stack dev and mainly work at <a href = "https://github.com/DocumaticAI"> @DocumaticAI </a> and <a href = "https://github.com/Nuggies-bot"> @Nuggies-bot </a>
 
 
 
