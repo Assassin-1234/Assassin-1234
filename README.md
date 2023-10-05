@@ -6,9 +6,10 @@ I'm a 17yrs old student. I like to contribute to open sourced projects and make 
        🍎 javascript
        🍔 typescript
        🍟 python
+       🥐 C
+       🥨 C++
 ## languages I'm learning: 
        🍦 C#
-       🥓java
        ⚙ rust
 
 
