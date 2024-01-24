@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm a 17yrs old student. I like to contribute to open sourced projects and make fun stuff, I specialize in automation and backend with nodejs and databases. DM me on Discord @ AssassiN#0001 to hire/collaborate on stuff together! 
+I'm a 18yrs old student. I like to contribute to open sourced projects and make fun stuff, I specialize in automation and backend with nodejs and databases. DM me on Discord @ AssassiN#0001 to hire/collaborate on stuff together! 
 
 ## languages I know:
        🍎 javascript
