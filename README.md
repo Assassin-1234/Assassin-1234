@@ -8,6 +8,7 @@ I'm a 18yrs old student. I like to contribute to open sourced projects and make 
        🍟 python
        🥐 C
        🥨 C++
+       💵 solidity
 ## languages I'm learning: 
        🍦 C#
        ⚙ rust
