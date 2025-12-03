@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm a 18yrs old student. I like to contribute to open sourced projects and make fun stuff, I specialize in automation and backend with nodejs and databases. DM me on Discord @ AssassiN#0001 to hire/collaborate on stuff together! 
+I'm a 20yrs old student. CEO and Cofounder @ Audexis private limited. I like to contribute to open sourced projects and make fun stuff, I specialize in automation and backend with nodejs and databases alongside AI and machine learning. DM me on Discord @nearprotocol to hire/collaborate on stuff together! 
 
 ## languages I know:
        🍎 javascript
@@ -9,13 +9,14 @@ I'm a 18yrs old student. I like to contribute to open sourced projects and make 
        🥐 C
        🥨 C++
        💵 solidity
+
 ## languages I'm learning: 
        🍦 C#
        ⚙ rust
 
 
 
-I currently work as a MERN stack dev and mainly work at <a href = "https://github.com/DocumaticAI"> @DocumaticAI </a> and <a href = "https://github.com/Nuggies-bot"> @Nuggies-bot </a>
+I currently work as an AI/ML specialist and backend engineer, mainly working at <a href = "https://github.com/Audexis"> @Audexis
 
 
 
